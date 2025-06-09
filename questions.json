@@ -1,0 +1,1313 @@
+[
+  
+  {
+    "id": 1,
+    "question": "Which tag is used for the largest heading in HTML?",
+    "options": ["<h6>", "<heading>", "<h1>", "<header>"],
+    "correctAnswerIndex": 2,
+    "explanation": "`<h1>` defines the largest heading in HTML.",
+    "topic": "HTML"
+  },
+  {
+    "id": 2,
+    "question": "What is HTML?",
+    "options": [
+      "HTML describes the structure of a webpage",
+      "HTML is the standard markup language mainly used to create web pages",
+      "HTML consists of a set of elements that helps the browser how to view the content",
+      "All of the mentioned"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "HTML is the standard markup language mainly used to create web pages. HTML describes the structure and layout of a webpage. HTML consists of a series of elements that help the browser display content properly.",
+    "topic": "HTML"
+  },
+  {
+    "id": 3,
+    "question": "Who is the father of HTML?",
+    "options": ["Rasmus Lerdorf", "Tim Berners-Lee", "Brendan Eich", "Sergey Brin"],
+    "correctAnswerIndex": 1,
+    "explanation": "Timothy John Berners-Lee (TimBL) is known as the father of HTML. He is a British computer scientist, best known as the inventor of the World Wide Web.",
+    "topic": "HTML"
+  },
+  {
+    "id": 4,
+    "question": "HTML stands for __________",
+    "options": ["HyperText Markup Language", "HyperText Machine Language", "HyperText Marking Language", "HighText Marking Language"],
+    "correctAnswerIndex": 0,
+    "explanation": "HTML stands for “HyperText Markup Language”. HTML is the standard markup language mainly used to design and create web pages and web applications.",
+    "topic": "HTML"
+  },
+  {
+    "id": 5,
+    "question": "What is the correct syntax of doctype in HTML5?",
+    "options": ["</doctype html>", "<doctype html>", "<doctype html!>", "<!DOCTYPE html>"],
+    "correctAnswerIndex": 3,
+    "explanation": "The correct syntax of HTML5 doctype is `<!DOCTYPE html>`. It is placed at the top of an HTML5 document and is not case-sensitive.",
+    "topic": "HTML"
+  },
+  {
+    "id": 6,
+    "question": "What does the `<a>` tag do in HTML?",
+    "options": ["Defines an anchor link", "Defines a list", "Adds animation", "Links a stylesheet"],
+    "correctAnswerIndex": 0,
+    "explanation": "`<a>` defines a hyperlink, used to link to other pages.",
+    "topic": "HTML"
+  },
+  {
+    "id": 7,
+    "question": "Which attribute is used to open a link in a new tab?",
+    "options": ["href", "src", "target", "new"],
+    "correctAnswerIndex": 2,
+    "explanation": "`target=\"_blank\"` opens a link in a new tab.",
+    "topic": "HTML"
+  },
+  {
+    "id": 8,
+    "question": "Which tag is used to insert a line break?",
+    "options": ["<br>", "<hr>", "<break>", "<lb>"],
+    "correctAnswerIndex": 0,
+    "explanation": "`<br>` inserts a line break in HTML.",
+    "topic": "HTML"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is used to define metadata?",
+    "options": ["<meta>", "<data>", "<info>", "<head>"],
+    "correctAnswerIndex": 0,
+    "explanation": "`<meta>` is used inside `<head>` to define metadata like description or charset.",
+    "topic": "HTML"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is used to read an HTML page and render it?",
+    "options": ["Web server", "Web network", "Web browser", "Web matrix"],
+    "correctAnswerIndex": 2,
+    "explanation": "A web browser is a software application for retrieving, presenting and traversing information resources on the World Wide Web.",
+    "topic": "HTML"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is not a difference between HTML and XHTML?",
+    "options": [
+      "Charset in both html and xhtml is “text/html”",
+      "Tags and attributes are case-insensitive in HTML but not in XHTML",
+      "Special characters must be escaped using character entities in XHTML unlike HTML",
+      "Charset in html is “text/html” whereas in xhtml it is “application/xml+xhtml”"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "HTML is case-insensitive while XHTML is case-sensitive. Charset in HTML is “text/html” and in XHTML it is “application/xml+xhtml”.",
+    "topic": "HTML"
+  },
+  {
+    "id": 12,
+    "question": "Which element is used to get highlighted text in HTML5?",
+    "options": ["<ul>", "<mark>", "<highlight>", "<b>"],
+    "correctAnswerIndex": 1,
+    "explanation": "The `<mark>` element is used to highlight a section of text.",
+    "topic": "HTML"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is not a HTML5 tag?",
+    "options": ["<track>", "<video>", "<slider>", "<source>"],
+    "correctAnswerIndex": 2,
+    "explanation": "`<slider>` is not a valid HTML5 tag.",
+    "topic": "HTML"
+  },
+  {
+    "id": 14,
+    "question": "How do we write comments in HTML?",
+    "options": ["<!-- comment -->", "<!……>", "</……/>", "<…….!>"],
+    "correctAnswerIndex": 0,
+    "explanation": "HTML comments are written using `<!-- comment -->`. They are not displayed in the browser.",
+    "topic": "HTML"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following elements in HTML5 defines video or movie content?",
+    "options": ["<video>", "<movie>", "<audio>", "<media>"],
+    "correctAnswerIndex": 0,
+    "explanation": "The `<video>` tag in HTML5 is used to embed video content.",
+    "topic": "HTML"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is not the element associated with the HTML table layout?",
+    "options": ["alignment", "color", "size", "spanning"],
+    "correctAnswerIndex": 1,
+    "explanation": "Color is not an element of table layout. Alignment, size, and spanning are used in table formatting.",
+    "topic": "HTML"
+  },
+  {
+    "id": 17,
+    "question": "Which element is used for styling HTML5 layout?",
+    "options": ["CSS", "jQuery", "JavaScript", "PHP"],
+    "correctAnswerIndex": 0,
+    "explanation": "CSS is used for styling HTML5 layout including colors, fonts, and layout structure.",
+    "topic": "HTML"
+  },
+  {
+    "id": 18,
+    "question": "Which HTML tag is used for making character appearance bold?",
+    "options": ["<u>content</u>", "<b>content</b>", "<br>content</br>", "<i>content</i>"],
+    "correctAnswerIndex": 1,
+    "explanation": "The `<b>` tag is used to make characters bold.",
+    "topic": "HTML"
+  },
+  {
+    "id": 19,
+    "question": "Which HTML tag is used to insert an image?",
+    "options": [
+      "<img url=\"htmllogo.jpg\" />",
+      "<img alt=\"htmllogo.jpg\" />",
+      "<img src=\"htmllogo.jpg\" />",
+      "<img link=\"htmllogo.jpg\" />"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The `<img>` tag with `src` attribute is used to insert an image in HTML.",
+    "topic": "HTML"
+  },
+  {
+    "id": 20,
+    "question": "HTML is a subset of ___________",
+    "options": ["SGMT", "SGML", "SGME", "XHTML"],
+    "correctAnswerIndex": 1,
+    "explanation": "HTML is a subset of SGML (Standard Generalized Markup Language).",
+    "topic": "HTML"
+  },
+
+
+  {
+    "id": 21,
+    "question": "What is CSS?",
+    "options": ["CSS is a style sheet language", "CSS is designed to separate the presentation and content, including layout, colors, and fonts", "CSS is the language used to style the HTML documents", "All of the mentioned"],
+    "correctAnswerIndex": 3,
+    "explanation": "CSS is a style sheet language that stands for Cascading Style Sheet and is used to style HTML documents. CSS is mainly designed to separate the presentation and content, including layout, colors, and fonts.",
+    "topic": "CSS"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following tag is used to embed css in html page?",
+    "options": ["<css>", "<!DOCTYPE html>", "<script>", "<style>"],
+    "correctAnswerIndex": 3,
+    "explanation": "<style> </style> tag is used to embed CSS in HTML page, while <script> </script> is used to embed JS in HTML. <!DOCTYPE html> is HTML5 declaration.",
+    "topic": "CSS"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following CSS selectors are used to specify a group of elements?",
+    "options": ["tag", "id", "class", "both class and tag"],
+    "correctAnswerIndex": 2,
+    "explanation": "Class selectors are used to specify a group of elements. Id selector specifies a particular unique element.",
+    "topic": "CSS"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following has introduced text, list, box, margin, border, color, and background properties?",
+    "options": ["HTML", "PHP", "CSS", "Ajax"],
+    "correctAnswerIndex": 2,
+    "explanation": "CSS is a style sheet language that stands for Cascading Style Sheet. CSS has introduced text, list, box, margin, border, color, and background properties.",
+    "topic": "CSS"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following CSS framework is used to create a responsive design?",
+    "options": ["django", "rails", "larawell", "bootstrap"],
+    "correctAnswerIndex": 3,
+    "explanation": "Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications.",
+    "topic": "CSS"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following CSS selector is used to specify a rule to bind a particular unique element?",
+    "options": ["tag", "id", "class", "both class and tag"],
+    "correctAnswerIndex": 1,
+    "explanation": "For binding a particular unique element, id selectors are used. While for a group of elements, class selector can be used.",
+    "topic": "CSS"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following type of HTML tag is used to define an internal style sheet?",
+    "options": ["<script>", "<link>", "<class>", "<style>"],
+    "correctAnswerIndex": 3,
+    "explanation": "<style> tag is used to define an internal style sheet in HTML document.",
+    "topic": "CSS"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following CSS property is used to make the text bold?",
+    "options": ["text-decoration: bold", "font-weight: bold", "font-style: bold", "text-align: bold"],
+    "correctAnswerIndex": 1,
+    "explanation": "The font-weight property is used for setting the thickness and boldness of the font. It is used to define the weight of the text. The available weight depends on the font-family, which is used by the browser.",
+    "topic": "CSS"
+  },
+  {
+    "id": 29,
+    "question": "Which of the following CSS style property is used to specify an italic text?",
+    "options": ["style", "font", "font-style", "@font-face"],
+    "correctAnswerIndex": 2,
+    "explanation": "font-style property is used to specify an italic text. font-style property has three values (normal, italic & oblique).",
+    "topic": "CSS"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following are the CSS Extension Prefixes for Webkit?",
+    "options": ["-chrome", "-web", "-o-", "-webkit"],
+    "correctAnswerIndex": 3,
+    "explanation": "Browser sometimes adds prefixes to non-standard CSS properties. CSS Extension prefix for Webkit is -webkit which is supported by almost all ios browsers. -o is used by opera whereas -moz is used by firefox browser.",
+    "topic": "CSS"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is the correct syntax to link an external style sheet in the HTML file?",
+    "options": ["<link rel=\"stylesheet\" href=\"style.css\" />", "<link rel=\"stylesheet\" src=\"style.css\" />", "<style rel=\"stylesheet\" src=\"style.css\" />", "<style rel=\"stylesheet\" link=\"style.css\" />"],
+    "correctAnswerIndex": 0,
+    "explanation": "HTML file must contain a reference to the external style sheet file. External style sheet files are defined within the <link> element and it should be inside the <head> section. href attribute specifies the URL of the linked resource.",
+    "topic": "CSS"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is the first CSS specification to become an official W3C Recommendation?",
+    "options": ["CSS level 2", "(X)HTML CSS", "CSS level 1", "CSS level 2.1"],
+    "correctAnswerIndex": 2,
+    "explanation": "The first CSS specification to become an official W3C Recommendation is CSS level 1, published on December 17, 1996. Håkon Wium Lie and Bert Bos are credited as the original developers.",
+    "topic": "CSS"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following function defines a linear gradient as a CSS image?",
+    "options": ["gradient()", "linear-gradient()", "grayscale()", "image()"],
+    "correctAnswerIndex": 1,
+    "explanation": "linear-gradient() function defines a linear gradient as a CSS image. Creating a linear gradient function we should define minimum of two color stops. Color stops will tell the browser which colors to use in the gradients for smooth transitions.",
+    "topic": "CSS"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following CSS property can be used to set the image as a border instead of the border style?",
+    "options": ["background-image-source", "background-image", "border-image-source", "border-image"],
+    "correctAnswerIndex": 2,
+    "explanation": "The border-image-source property specifies the path to the image to be used as a border (instead of the normal border around an element).",
+    "topic": "CSS"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following CSS property defines the different properties of all four sides of an element’s border in a single declaration?",
+    "options": ["border-collapse", "border-width", "padding", "border"],
+    "correctAnswerIndex": 3,
+    "explanation": "The border property defines the different properties (width, style, color) of all four sides of an element’s border in a single declaration.",
+    "topic": "CSS"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is the correct way to apply CSS Styles?",
+    "options": ["in an external CSS file", "inside an HTML element", "inside the <head> section of an HTML page", "all of the mentioned"],
+    "correctAnswerIndex": 3,
+    "explanation": "We can style the document using CSS in three different ways i.e embed, inline and external. An inline CSS means applying styles rules directly to the HTML element. In embed, we declare or write all the needed style in <style></style> tag in the head section of the HTML document. We can create an external style sheet and provide its link to the document.",
+    "topic": "CSS"
+  },
+  {
+    "id": 37,
+    "question": "Which of the following is not the property of the CSS box model?",
+    "options": ["margin", "color", "width", "height"],
+    "correctAnswerIndex": 1,
+    "explanation": "CSS box model includes height, width, padding, margin and border. Color is not part of the box model itself.",
+    "topic": "CSS"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following CSS property sets what kind of line decorations are added to an element, such as underlines, overlines, etc?",
+    "options": ["text-decoration", "text-style", "text-decoration-line", "text-line"],
+    "correctAnswerIndex": 2,
+    "explanation": "The text-decoration-line property defines the type of line decorations that are added to an element, such as underlines, overlines, etc.",
+    "topic": "CSS"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following CSS property specifies the look and design of an outline?",
+    "options": ["outline-style", "outline-format", "outline-font", "none of the mentioned"],
+    "correctAnswerIndex": 0,
+    "explanation": "The outline-style CSS property is used to set the style of the outline of an element. An outline is a line that is drawn around elements, outside the border edge, to make the element stand out.",
+    "topic": "CSS"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following CSS property sets the shadow for a box element?",
+    "options": ["set-shadow", "box-shadow", "shadow", "canvas-shadow"],
+    "correctAnswerIndex": 1,
+    "explanation": "box-shadow property sets the shadow for a box element.",
+    "topic": "CSS"
+  },
+
+
+  {
+    "id": 41,
+    "question": "What is JavaScript?",
+    "options": ["JavaScript is a scripting language used to make websites interactive", "JavaScript is an assembly language used to create web applications", "JavaScript is a compiled language used for styling web pages", "JavaScript is a markup language used for creating web pages"],
+    "correctAnswerIndex": 0,
+    "explanation": "JavaScript is a scripting language used to create and control dynamic website content.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is the correct syntax to output 'Hello World' in JavaScript?",
+    "options": ["print('Hello World')", "console.log('Hello World')", "echo 'Hello World'", "printf('Hello World')"],
+    "correctAnswerIndex": 1,
+    "explanation": "console.log() is used in JavaScript to print output to the browser console.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 43,
+    "question": "Which company developed JavaScript?",
+    "options": ["Netscape", "Bell Labs", "Sun Microsystems", "IBM"],
+    "correctAnswerIndex": 0,
+    "explanation": "JavaScript was developed by Brendan Eich while working at Netscape in 1995.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 44,
+    "question": "How do you create a function in JavaScript?",
+    "options": ["function myFunction()", "def myFunction()", "function:myFunction()", "create.myFunction()"],
+    "correctAnswerIndex": 0,
+    "explanation": "The correct syntax to define a function in JavaScript is: function functionName() {}",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 45,
+    "question": "How can you add a comment in JavaScript?",
+    "options": ["<!-- comment -->", "// comment", "# comment", "** comment **"],
+    "correctAnswerIndex": 1,
+    "explanation": "Single-line comments in JavaScript use `//` and multi-line use `/* comment */`.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 46,
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "options": ["var", "let", "const", "All of the above"],
+    "correctAnswerIndex": 3,
+    "explanation": "JavaScript allows variable declarations using var, let, and const depending on scope and mutability.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 47,
+    "question": "What will be the output of: `typeof null`?",
+    "options": ["'null'", "'object'", "'undefined'", "'number'"],
+    "correctAnswerIndex": 1,
+    "explanation": "`typeof null` returns `'object'` due to a historical bug in JavaScript.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following methods is used to access HTML elements using JavaScript?",
+    "options": ["getElementById()", "getElementsByClassName()", "querySelector()", "All of the above"],
+    "correctAnswerIndex": 3,
+    "explanation": "JavaScript provides multiple methods to access DOM elements: by ID, class, or query selector.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 49,
+    "question": "What is the correct way to write an array in JavaScript?",
+    "options": ["var colors = 'red', 'green', 'blue'", "var colors = (1:'red', 2:'green', 3:'blue')", "var colors = ['red', 'green', 'blue']", "var colors = '1=red, 2=green, 3=blue'"],
+    "correctAnswerIndex": 2,
+    "explanation": "JavaScript arrays are written with square brackets, e.g., ['red', 'green', 'blue'].",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 50,
+    "question": "How do you round the number 7.25 to the nearest integer in JavaScript?",
+    "options": ["round(7.25)", "Math.round(7.25)", "Math.rnd(7.25)", "rnd(7.25)"],
+    "correctAnswerIndex": 1,
+    "explanation": "Math.round() is used to round a number to the nearest integer.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 51,
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": ["*", "=", "-", "+"],
+    "correctAnswerIndex": 1,
+    "explanation": "The assignment operator `=` is used to assign values to variables in JavaScript.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 52,
+    "question": "What is the output of `Boolean('')`?",
+    "options": ["true", "false", "undefined", "error"],
+    "correctAnswerIndex": 1,
+    "explanation": "An empty string is considered a falsy value in JavaScript, so Boolean('') returns false.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 53,
+    "question": "What does the `isNaN()` function do?",
+    "options": ["Checks if a value is a number", "Checks if a value is not a number", "Converts a value to a number", "None of the above"],
+    "correctAnswerIndex": 1,
+    "explanation": "`isNaN()` determines whether a value is NaN (Not-a-Number).",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 54,
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": ["onmouseover", "onchange", "onclick", "onmouseclick"],
+    "correctAnswerIndex": 2,
+    "explanation": "The `onclick` event triggers when the user clicks on an HTML element.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 55,
+    "question": "How do you declare a JavaScript object?",
+    "options": ["var obj = {}", "var obj = []", "var obj = ()", "var obj = <>"],
+    "correctAnswerIndex": 0,
+    "explanation": "JavaScript objects are declared using curly braces `{}`.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 56,
+    "question": "Which method adds a new element to the end of an array?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "correctAnswerIndex": 0,
+    "explanation": "`push()` adds a new element to the end of an array.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 57,
+    "question": "What will be the output of `2 + '2'` in JavaScript?",
+    "options": ["4", "22", "NaN", "Error"],
+    "correctAnswerIndex": 1,
+    "explanation": "In JavaScript, if one operand is a string, `+` performs string concatenation. So `2 + '2'` results in '22'.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 58,
+    "question": "Which method removes the last element from an array?",
+    "options": ["pop()", "shift()", "remove()", "splice()"],
+    "correctAnswerIndex": 0,
+    "explanation": "`pop()` removes the last element from an array.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 59,
+    "question": "What is the default value of an uninitialized variable in JavaScript?",
+    "options": ["null", "0", "undefined", "NaN"],
+    "correctAnswerIndex": 2,
+    "explanation": "If a variable is declared but not initialized, its value is `undefined`.",
+    "topic": "JavaScript"
+  },
+  {
+    "id": 60,
+    "question": "What does DOM stand for in JavaScript?",
+    "options": ["Document Object Model", "Data Object Method", "Document Oriented Model", "Data Oriented Method"],
+    "correctAnswerIndex": 0,
+    "explanation": "DOM stands for Document Object Model. It represents the structure of a web page so programs can change the document structure, style, and content.",
+    "topic": "JavaScript"
+  },
+
+
+  {
+    "id": 61,
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Strong Question Language", "Simple Query Language", "Sequential Query Language"],
+    "correctAnswerIndex": 0,
+    "explanation": "SQL stands for Structured Query Language, used to communicate with databases.",
+    "topic": "SQL"
+  },
+  {
+    "id": 62,
+    "question": "Which SQL command is used to retrieve data from a database?",
+    "options": ["GET", "SELECT", "RETRIEVE", "FETCH"],
+    "correctAnswerIndex": 1,
+    "explanation": "The SELECT statement is used to fetch data from a database.",
+    "topic": "SQL"
+  },
+  {
+    "id": 63,
+    "question": "Which keyword is used to sort the result-set in SQL?",
+    "options": ["SORT", "ORDER", "ORDER BY", "SORT BY"],
+    "correctAnswerIndex": 2,
+    "explanation": "ORDER BY is used to sort data in ascending or descending order.",
+    "topic": "SQL"
+  },
+  {
+    "id": 64,
+    "question": "How do you select all the columns from a table?",
+    "options": ["SELECT all FROM table_name", "SELECT * FROM table_name", "SELECT ALL COLUMNS FROM table_name", "SELECT COLUMNS FROM table_name"],
+    "correctAnswerIndex": 1,
+    "explanation": "Using * selects all columns from the specified table.",
+    "topic": "SQL"
+  },
+  {
+    "id": 65,
+    "question": "Which SQL statement is used to update data in a database?",
+    "options": ["MODIFY", "UPDATE", "CHANGE", "SET"],
+    "correctAnswerIndex": 1,
+    "explanation": "UPDATE is used to modify existing records in a table.",
+    "topic": "SQL"
+  },
+  {
+    "id": 66,
+    "question": "Which command is used to remove a record from a table?",
+    "options": ["DELETE", "REMOVE", "DROP", "TRUNCATE"],
+    "correctAnswerIndex": 0,
+    "explanation": "DELETE is used to remove specific records from a table.",
+    "topic": "SQL"
+  },
+  {
+    "id": 67,
+    "question": "What is the default order of sorting in SQL?",
+    "options": ["Descending", "Random", "Ascending", "None"],
+    "correctAnswerIndex": 2,
+    "explanation": "SQL sorts results in ascending order by default.",
+    "topic": "SQL"
+  },
+  {
+    "id": 68,
+    "question": "Which clause is used to filter records in SQL?",
+    "options": ["FILTER", "WHERE", "SORT", "SELECT"],
+    "correctAnswerIndex": 1,
+    "explanation": "The WHERE clause is used to filter records based on a condition.",
+    "topic": "SQL"
+  },
+  {
+    "id": 69,
+    "question": "What does the COUNT() function do in SQL?",
+    "options": ["Returns total characters in a column", "Returns total rows", "Returns total NULL values", "Returns number of tables"],
+    "correctAnswerIndex": 1,
+    "explanation": "COUNT() returns the number of rows that match a specified condition.",
+    "topic": "SQL"
+  },
+  {
+    "id": 70,
+    "question": "Which SQL statement is used to create a new table?",
+    "options": ["INSERT TABLE", "MAKE TABLE", "CREATE TABLE", "NEW TABLE"],
+    "correctAnswerIndex": 2,
+    "explanation": "CREATE TABLE is used to define a new table in the database.",
+    "topic": "SQL"
+  },
+  {
+    "id": 71,
+    "question": "Which SQL statement is used to add new data into a table?",
+    "options": ["INSERT INTO", "ADD INTO", "PUT INTO", "APPEND INTO"],
+    "correctAnswerIndex": 0,
+    "explanation": "INSERT INTO is used to add new records into a table.",
+    "topic": "SQL"
+  },
+  {
+    "id": 72,
+    "question": "What does the WHERE clause do in SQL?",
+    "options": ["Sorts records", "Groups records", "Filters records", "Deletes records"],
+    "correctAnswerIndex": 2,
+    "explanation": "WHERE filters rows that meet a specific condition.",
+    "topic": "SQL"
+  },
+  {
+    "id": 73,
+    "question": "Which function is used to find the highest value in a column?",
+    "options": ["HIGH()", "TOP()", "MAX()", "LARGE()"],
+    "correctAnswerIndex": 2,
+    "explanation": "MAX() returns the maximum value in a column.",
+    "topic": "SQL"
+  },
+  {
+    "id": 74,
+    "question": "Which operator is used to test for values within a range?",
+    "options": ["BETWEEN", "RANGE", "WITHIN", "IN"],
+    "correctAnswerIndex": 0,
+    "explanation": "BETWEEN is used to filter the result within a certain range.",
+    "topic": "SQL"
+  },
+  {
+    "id": 75,
+    "question": "Which keyword is used to prevent duplicate records in SQL?",
+    "options": ["DISTINCT", "NO DUPLICATES", "UNIQUE", "ONLY"],
+    "correctAnswerIndex": 0,
+    "explanation": "DISTINCT removes duplicate values from the result set.",
+    "topic": "SQL"
+  },
+  {
+    "id": 76,
+    "question": "Which clause is used to group rows that have the same values?",
+    "options": ["GROUP BY", "ORDER BY", "CLUSTER", "COLLECT"],
+    "correctAnswerIndex": 0,
+    "explanation": "GROUP BY groups rows sharing a property so that aggregate functions can be applied.",
+    "topic": "SQL"
+  },
+  {
+    "id": 77,
+    "question": "Which command is used to remove all records from a table, including structure?",
+    "options": ["DELETE", "REMOVE", "DROP", "TRUNCATE"],
+    "correctAnswerIndex": 2,
+    "explanation": "DROP deletes the table structure and all its data.",
+    "topic": "SQL"
+  },
+  {
+    "id": 78,
+    "question": "What is a primary key?",
+    "options": ["A column that allows NULL values", "A column with duplicate values", "A column that uniquely identifies each row", "A column used for sorting data"],
+    "correctAnswerIndex": 2,
+    "explanation": "A primary key uniquely identifies each record and does not allow NULLs.",
+    "topic": "SQL"
+  },
+  {
+    "id": 79,
+    "question": "Which SQL clause is used to combine rows from two or more tables?",
+    "options": ["COMBINE", "MERGE", "JOIN", "UNION"],
+    "correctAnswerIndex": 2,
+    "explanation": "JOIN is used to combine rows from two or more tables based on a related column.",
+    "topic": "SQL"
+  },
+  {
+    "id": 80,
+    "question": "Which function is used to calculate the average value?",
+    "options": ["SUM()", "AVG()", "TOTAL()", "COUNT()"],
+    "correctAnswerIndex": 1,
+    "explanation": "AVG() returns the average value of a numeric column.",
+    "topic": "SQL"
+  },
+
+
+  {
+    "id": 81,
+    "question": "What is React primarily used for?",
+    "options": ["Database management", "Building user interfaces", "Styling web pages", "Handling HTTP requests"],
+    "correctAnswerIndex": 1,
+    "explanation": "React is a JavaScript library used for building user interfaces, especially single-page applications.",
+    "topic": "React.js"
+  },
+  {
+    "id": 82,
+    "question": "What is the command to create a new React application using Create React App?",
+    "options": ["npx create-app my-app", "npm create react-app my-app", "npx create-react-app my-app", "create-react-app my-app"],
+    "correctAnswerIndex": 2,
+    "explanation": "The correct command is: npx create-react-app my-app.",
+    "topic": "React.js"
+  },
+  {
+    "id": 83,
+    "question": "Which method is used to render React elements to the DOM in React 18+?",
+    "options": ["ReactDOM.render()", "React.render()", "ReactDOM.createRoot().render()", "React.createApp()"],
+    "correctAnswerIndex": 2,
+    "explanation": "In React 18+, use ReactDOM.createRoot().render() to render the app.",
+    "topic": "React.js"
+  },
+  {
+    "id": 84,
+    "question": "What is a React component?",
+    "options": ["A reusable piece of code that returns HTML via JavaScript", "A function to update the database", "An API call", "A CSS module"],
+    "correctAnswerIndex": 0,
+    "explanation": "A component is a reusable piece of UI logic that returns JSX.",
+    "topic": "React.js"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is used to pass data to a component?",
+    "options": ["state", "props", "setState", "render"],
+    "correctAnswerIndex": 1,
+    "explanation": "Props (short for properties) are used to pass data from parent to child components.",
+    "topic": "React.js"
+  },
+  {
+    "id": 86,
+    "question": "Which hook is used to add state to functional components?",
+    "options": ["useEffect", "useState", "useProps", "useReducer"],
+    "correctAnswerIndex": 1,
+    "explanation": "useState is the React hook used for managing state in functional components.",
+    "topic": "React.js"
+  },
+  {
+    "id": 87,
+    "question": "What does JSX stand for?",
+    "options": ["JavaScript XML", "Java Syntax Extension", "JavaScript X", "JavaScript Extension Syntax"],
+    "correctAnswerIndex": 0,
+    "explanation": "JSX stands for JavaScript XML, allowing HTML-like syntax in JavaScript.",
+    "topic": "React.js"
+  },
+  {
+    "id": 88,
+    "question": "What does the `useEffect` hook do?",
+    "options": ["Manages props", "Manages routing", "Performs side effects in components", "Handles events"],
+    "correctAnswerIndex": 2,
+    "explanation": "useEffect is used for performing side effects such as data fetching, subscriptions, or DOM updates.",
+    "topic": "React.js"
+  },
+  {
+    "id": 89,
+    "question": "Which of the following is NOT a lifecycle method in class components?",
+    "options": ["componentDidMount", "componentWillUnmount", "useEffect", "render"],
+    "correctAnswerIndex": 2,
+    "explanation": "useEffect is a React hook used in functional components, not in class components.",
+    "topic": "React.js"
+  },
+  {
+    "id": 90,
+    "question": "What is the virtual DOM in React?",
+    "options": ["A real copy of the browser DOM", "A JavaScript representation of the DOM", "A server-side DOM", "A deprecated feature"],
+    "correctAnswerIndex": 1,
+    "explanation": "Virtual DOM is a lightweight JavaScript object that represents the real DOM.",
+    "topic": "React.js"
+  },
+  {
+    "id": 91,
+    "question": "How do you lift state up in React?",
+    "options": ["Use props in child component", "Use useState in parent and pass data via props", "Use Redux", "Use useEffect"],
+    "correctAnswerIndex": 1,
+    "explanation": "Lifting state up means moving state to a common ancestor and passing it down via props.",
+    "topic": "React.js"
+  },
+  {
+    "id": 92,
+    "question": "Which hook should be used for fetching data on component mount?",
+    "options": ["useState", "useEffect", "useContext", "useRef"],
+    "correctAnswerIndex": 1,
+    "explanation": "useEffect is the correct hook to fetch data when a component mounts.",
+    "topic": "React.js"
+  },
+  {
+    "id": 93,
+    "question": "What is the default value of useState if not specified?",
+    "options": ["0", "null", "undefined", "There is no default"],
+    "correctAnswerIndex": 2,
+    "explanation": "If not specified, the default value of useState is `undefined`.",
+    "topic": "React.js"
+  },
+  {
+    "id": 94,
+    "question": "Which keyword is used to export a component?",
+    "options": ["release", "throw", "export", "send"],
+    "correctAnswerIndex": 2,
+    "explanation": "The `export` keyword is used to make components accessible from other files.",
+    "topic": "React.js"
+  },
+  {
+    "id": 95,
+    "question": "How many root elements can a JSX element return?",
+    "options": ["Multiple", "Two", "Only one", "Zero"],
+    "correctAnswerIndex": 2,
+    "explanation": "JSX must return only one root element. Use a fragment or a wrapping div if needed.",
+    "topic": "React.js"
+  },
+  {
+    "id": 96,
+    "question": "What are keys in React used for?",
+    "options": ["Styling elements", "Giving unique identity to list items", "Adding routing", "None of the above"],
+    "correctAnswerIndex": 1,
+    "explanation": "Keys help React identify which items have changed, are added, or are removed in a list.",
+    "topic": "React.js"
+  },
+  {
+    "id": 97,
+    "question": "What is the purpose of React Router?",
+    "options": ["Managing component state", "Data fetching", "Routing and navigation", "Styling components"],
+    "correctAnswerIndex": 2,
+    "explanation": "React Router is used to handle routing in single-page React apps.",
+    "topic": "React.js"
+  },
+  {
+    "id": 98,
+    "question": "Which hook is used to access context in a functional component?",
+    "options": ["useEffect", "useState", "useContext", "useReducer"],
+    "correctAnswerIndex": 2,
+    "explanation": "useContext allows access to React context inside functional components.",
+    "topic": "React.js"
+  },
+  {
+    "id": 99,
+    "question": "What is the use of `useRef` hook?",
+    "options": ["To manage state", "To create references to DOM elements", "To create styles", "To create routes"],
+    "correctAnswerIndex": 1,
+    "explanation": "useRef is used to persist values and access DOM nodes directly.",
+    "topic": "React.js"
+  },
+  {
+    "id": 100,
+    "question": "What is a fragment in React?",
+    "options": ["A data-fetching method", "A type of hook", "A wrapper that doesn't render extra DOM elements", "An event listener"],
+    "correctAnswerIndex": 2,
+    "explanation": "Fragments let you group multiple elements without adding extra nodes to the DOM.",
+    "topic": "React.js"
+  },
+
+
+  {
+    "id": 101,
+    "question": "What is Node.js?",
+    "options": ["A programming language", "A JavaScript runtime built on Chrome's V8 engine", "A frontend framework", "A database"],
+    "correctAnswerIndex": 1,
+    "explanation": "Node.js is a runtime environment that allows JavaScript to run on the server side using Chrome's V8 engine.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 102,
+    "question": "Which module in Node.js is used to create a web server?",
+    "options": ["fs", "http", "url", "os"],
+    "correctAnswerIndex": 1,
+    "explanation": "The 'http' module is used to create web servers in Node.js.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 103,
+    "question": "Which function is used to read files in Node.js?",
+    "options": ["readFile()", "fs.read()", "fs.readFile()", "file.read()"],
+    "correctAnswerIndex": 2,
+    "explanation": "fs.readFile() is used to read files asynchronously in Node.js.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 104,
+    "question": "Which module helps handle file paths in Node.js?",
+    "options": ["fs", "url", "http", "path"],
+    "correctAnswerIndex": 3,
+    "explanation": "The 'path' module provides utilities for working with file and directory paths.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 105,
+    "question": "What is npm in Node.js?",
+    "options": ["Node Package Manager", "Node Private Module", "New Package Maker", "Node Programming Model"],
+    "correctAnswerIndex": 0,
+    "explanation": "npm stands for Node Package Manager and is used to install/manage packages.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 106,
+    "question": "Which command is used to initialize a Node.js project?",
+    "options": ["npm install", "node init", "npm init", "node install"],
+    "correctAnswerIndex": 2,
+    "explanation": "Use 'npm init' to create a package.json file and initialize a project.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 107,
+    "question": "What is the default file name Node.js looks for when starting a project?",
+    "options": ["app.js", "index.js", "main.js", "server.js"],
+    "correctAnswerIndex": 1,
+    "explanation": "By default, Node.js looks for 'index.js' if no file is specified.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 108,
+    "question": "What is middleware in Node.js?",
+    "options": ["A file reader", "A core module", "A function that processes requests before reaching the route handler", "A data parser"],
+    "correctAnswerIndex": 2,
+    "explanation": "Middleware functions process incoming requests before they reach the route handler.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 109,
+    "question": "Which framework is commonly used with Node.js for building APIs?",
+    "options": ["React", "Django", "Express", "Flask"],
+    "correctAnswerIndex": 2,
+    "explanation": "Express is a fast, unopinionated framework for building web APIs in Node.js.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 110,
+    "question": "Which method is used to import a module in Node.js (CommonJS)?",
+    "options": ["include()", "import()", "require()", "use()"],
+    "correctAnswerIndex": 2,
+    "explanation": "Node.js (CommonJS) uses require() to import external modules.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 111,
+    "question": "What is the purpose of `module.exports` in Node.js?",
+    "options": ["To create a module", "To define HTTP headers", "To export functionality from a module", "To delete a module"],
+    "correctAnswerIndex": 2,
+    "explanation": "module.exports is used to export objects, functions, or variables from a module.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 112,
+    "question": "Which built-in Node.js module allows interaction with the file system?",
+    "options": ["http", "url", "fs", "os"],
+    "correctAnswerIndex": 2,
+    "explanation": "The 'fs' module allows reading, writing, and managing files in Node.js.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 113,
+    "question": "What does the `process` object in Node.js provide?",
+    "options": ["File manipulation", "User interface control", "Information and control over the current Node.js process", "Database access"],
+    "correctAnswerIndex": 2,
+    "explanation": "The 'process' object provides info and control over the current Node.js process.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 114,
+    "question": "Which of the following is an event-driven architecture in Node.js?",
+    "options": ["Synchronous I/O", "Multithreaded I/O", "Blocking I/O", "Non-blocking I/O"],
+    "correctAnswerIndex": 3,
+    "explanation": "Node.js is designed around a non-blocking, event-driven I/O model.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 115,
+    "question": "What does `res.send()` do in Express.js?",
+    "options": ["Ends the response and sends a string/object", "Starts the server", "Saves data to file", "Ends the app"],
+    "correctAnswerIndex": 0,
+    "explanation": "res.send() sends the response to the client and ends the response process.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 116,
+    "question": "What is the default port used in most Node.js apps?",
+    "options": ["3000", "80", "5000", "27017"],
+    "correctAnswerIndex": 0,
+    "explanation": "Port 3000 is commonly used as the default development port in Node.js apps.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 117,
+    "question": "Which statement is true about Node.js?",
+    "options": ["It can only run in browsers", "It uses a single-threaded model", "It cannot handle large numbers of connections", "It’s mainly used for mobile development"],
+    "correctAnswerIndex": 1,
+    "explanation": "Node.js uses a single-threaded event loop for handling multiple connections efficiently.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 118,
+    "question": "What does the `next()` function do in Express middleware?",
+    "options": ["Sends a response", "Skips the route", "Calls the next middleware function", "Closes the app"],
+    "correctAnswerIndex": 2,
+    "explanation": "`next()` passes control to the next middleware or route handler in the stack.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 119,
+    "question": "How do you install Express using npm?",
+    "options": ["npm install express", "node install express", "npm create express", "express install"],
+    "correctAnswerIndex": 0,
+    "explanation": "Use 'npm install express' to add Express to your project.",
+    "topic": "Node.js"
+  },
+  {
+    "id": 120,
+    "question": "Which of the following is used to parse incoming request bodies in Express?",
+    "options": ["body-parser", "data-parser", "fs", "stream"],
+    "correctAnswerIndex": 0,
+    "explanation": "body-parser middleware is used to parse incoming JSON or URL-encoded data.",
+    "topic": "Node.js"
+  },
+
+
+  {
+    "id": 121,
+    "question": "What is Express.js?",
+    "options": ["A database", "A backend language", "A web application framework for Node.js", "A frontend framework"],
+    "correctAnswerIndex": 2,
+    "explanation": "Express.js is a minimal and flexible Node.js web application framework.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 122,
+    "question": "Which command installs Express in a Node.js project?",
+    "options": ["npm install express", "npm add expressjs", "npm setup express", "node install express"],
+    "correctAnswerIndex": 0,
+    "explanation": "Use 'npm install express' to add Express.js to your project.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 123,
+    "question": "Which method is used to define a GET route in Express.js?",
+    "options": ["app.fetch()", "app.get()", "app.read()", "app.route()"],
+    "correctAnswerIndex": 1,
+    "explanation": "Use app.get() to define a GET route in Express.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 124,
+    "question": "How do you define a middleware in Express.js?",
+    "options": ["Using app.use()", "Using app.middleware()", "Using app.define()", "Using app.route()"],
+    "correctAnswerIndex": 0,
+    "explanation": "Use app.use() to apply middleware in Express.js.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 125,
+    "question": "What does the `next()` function do in Express middleware?",
+    "options": ["Stops the server", "Ends the request", "Skips to next route", "Passes control to the next middleware"],
+    "correctAnswerIndex": 3,
+    "explanation": "`next()` is used to move to the next middleware in the stack.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 126,
+    "question": "Which object is used to access query parameters in Express?",
+    "options": ["req.body", "req.query", "req.params", "req.data"],
+    "correctAnswerIndex": 1,
+    "explanation": "Query parameters are accessed via req.query in Express.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 127,
+    "question": "What does `res.send()` do in Express?",
+    "options": ["Closes server", "Sends a file", "Sends a response to the client", "Logs the response"],
+    "correctAnswerIndex": 2,
+    "explanation": "`res.send()` sends the response body to the client.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 128,
+    "question": "Which function is used to start the server in Express?",
+    "options": ["app.begin()", "app.run()", "app.listen()", "app.start()"],
+    "correctAnswerIndex": 2,
+    "explanation": "`app.listen()` is used to bind and listen for connections on a specified port.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 129,
+    "question": "How do you define a route with a dynamic parameter in Express?",
+    "options": ["'/user-:id'", "'/user{id}'", "'/user/:id'", "'/user@id'"],
+    "correctAnswerIndex": 2,
+    "explanation": "Dynamic parameters are defined using a colon: '/user/:id'.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 130,
+    "question": "Which object is used to access route parameters?",
+    "options": ["req.query", "req.body", "req.route", "req.params"],
+    "correctAnswerIndex": 3,
+    "explanation": "Route parameters are accessed via req.params.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 131,
+    "question": "Which middleware parses JSON request bodies?",
+    "options": ["express.static", "express.json", "express.parser", "express.text"],
+    "correctAnswerIndex": 1,
+    "explanation": "express.json() parses incoming JSON payloads.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 132,
+    "question": "How do you serve static files in Express?",
+    "options": ["app.static()", "app.sendFile()", "express.static()", "express.file()"],
+    "correctAnswerIndex": 2,
+    "explanation": "express.static() is used to serve static files such as images, CSS, or JS.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 133,
+    "question": "What is the default HTTP method used by browser forms?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "correctAnswerIndex": 0,
+    "explanation": "Forms use GET method by default unless specified otherwise.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 134,
+    "question": "Which method handles form submissions in Express?",
+    "options": ["app.put()", "app.post()", "app.send()", "app.query()"],
+    "correctAnswerIndex": 1,
+    "explanation": "app.post() handles form submissions using the POST method.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 135,
+    "question": "How do you handle 404 errors in Express?",
+    "options": ["Using a try-catch block", "Using a wildcard route", "Using app.catch()", "Using app.default()"],
+    "correctAnswerIndex": 1,
+    "explanation": "A 404 handler is typically a wildcard route defined at the end: `app.use((req, res) => { ... })`.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 136,
+    "question": "How can you handle errors globally in Express?",
+    "options": ["Using process.exit()", "Using app.stop()", "Using error-handling middleware", "Using app.break()"],
+    "correctAnswerIndex": 2,
+    "explanation": "Error-handling middleware with 4 parameters (err, req, res, next) can be used for global error handling.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 137,
+    "question": "What is the purpose of `express.urlencoded()`?",
+    "options": ["To parse URL parameters", "To parse form data", "To encode URLs", "To redirect users"],
+    "correctAnswerIndex": 1,
+    "explanation": "express.urlencoded() parses incoming requests with URL-encoded payloads (like form data).",
+    "topic": "Express.js"
+  },
+  {
+    "id": 138,
+    "question": "What does `req.body` contain?",
+    "options": ["Query parameters", "Route parameters", "Form or JSON data", "Headers"],
+    "correctAnswerIndex": 2,
+    "explanation": "req.body contains the parsed body of the request (form data or JSON).",
+    "topic": "Express.js"
+  },
+  {
+    "id": 139,
+    "question": "Which HTTP method is used to update data partially?",
+    "options": ["GET", "DELETE", "PUT", "PATCH"],
+    "correctAnswerIndex": 3,
+    "explanation": "PATCH is used to apply partial updates to a resource.",
+    "topic": "Express.js"
+  },
+  {
+    "id": 140,
+    "question": "Which HTTP status code indicates 'Created'?",
+    "options": ["200", "201", "204", "400"],
+    "correctAnswerIndex": 1,
+    "explanation": "HTTP 201 Created indicates successful resource creation.",
+    "topic": "Express.js"
+  },
+
+
+  {
+    "id": 141,
+    "question": "What is the output of: print(type([]))?",
+    "options": ["<class 'list'>", "<type 'list'>", "<class 'array'>", "list"],
+    "correctAnswerIndex": 0,
+    "explanation": "The `type([])` returns `<class 'list'>` because empty square brackets represent a list in Python.",
+    "topic": "Python"
+  },
+  {
+    "id": 142,
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["function", "def", "define", "fun"],
+    "correctAnswerIndex": 1,
+    "explanation": "The `def` keyword is used to define a function in Python.",
+    "topic": "Python"
+  },
+  {
+    "id": 143,
+    "question": "What is the output of: print(2 ** 3)?",
+    "options": ["6", "8", "9", "5"],
+    "correctAnswerIndex": 1,
+    "explanation": "`**` is the exponentiation operator in Python. 2 ** 3 = 8.",
+    "topic": "Python"
+  },
+  {
+    "id": 144,
+    "question": "What is the correct way to write a comment in Python?",
+    "options": ["// this is a comment", "# this is a comment", "/* this is a comment */", "<!-- comment -->"],
+    "correctAnswerIndex": 1,
+    "explanation": "Comments in Python are written using `#`.",
+    "topic": "Python"
+  },
+  {
+    "id": 145,
+    "question": "Which data type is used to store True or False values?",
+    "options": ["int", "bit", "bool", "str"],
+    "correctAnswerIndex": 2,
+    "explanation": "The `bool` data type stores Boolean values: True or False.",
+    "topic": "Python"
+  },
+  {
+    "id": 146,
+    "question": "Which of the following is a mutable data type in Python?",
+    "options": ["tuple", "list", "str", "int"],
+    "correctAnswerIndex": 1,
+    "explanation": "Lists are mutable, which means you can change their content.",
+    "topic": "Python"
+  },
+  {
+    "id": 147,
+    "question": "How do you insert a value at the end of a list?",
+    "options": ["list.add()", "list.insert()", "list.append()", "list.extend()"],
+    "correctAnswerIndex": 2,
+    "explanation": "`append()` is used to add a value at the end of a list.",
+    "topic": "Python"
+  },
+  {
+    "id": 148,
+    "question": "What is the output of: print('Hello' * 3)?",
+    "options": ["HelloHelloHello", "Hello3", "Error", "3Hello"],
+    "correctAnswerIndex": 0,
+    "explanation": "In Python, multiplying a string by a number repeats it that many times.",
+    "topic": "Python"
+  },
+  {
+    "id": 149,
+    "question": "Which operator is used for floor division?",
+    "options": ["/", "//", "%", "**"],
+    "correctAnswerIndex": 1,
+    "explanation": "`//` is the floor division operator and returns the integer part of the division.",
+    "topic": "Python"
+  },
+  {
+    "id": 150,
+    "question": "What is the output of: bool(0)?",
+    "options": ["True", "False", "0", "None"],
+    "correctAnswerIndex": 1,
+    "explanation": "In Python, `0` is considered `False` when converted to Boolean.",
+    "topic": "Python"
+  },
+  {
+    "id": 151,
+    "question": "Which built-in function returns the length of a list?",
+    "options": ["length()", "count()", "len()", "size()"],
+    "correctAnswerIndex": 2,
+    "explanation": "The `len()` function returns the number of elements in a list.",
+    "topic": "Python"
+  },
+  {
+    "id": 152,
+    "question": "How can you create a virtual environment in Python?",
+    "options": ["python -m venv env", "python create env", "virtualenv create", "pip install venv"],
+    "correctAnswerIndex": 0,
+    "explanation": "`python -m venv env` is the correct command to create a virtual environment.",
+    "topic": "Python"
+  },
+  {
+    "id": 153,
+    "question": "Which of the following is used to handle exceptions in Python?",
+    "options": ["try-catch", "try-except", "do-catch", "catch-try"],
+    "correctAnswerIndex": 1,
+    "explanation": "Python uses `try-except` blocks to handle exceptions.",
+    "topic": "Python"
+  },
+  {
+    "id": 154,
+    "question": "What does the 'pass' statement do in Python?",
+    "options": ["Breaks loop", "Does nothing", "Continues next iteration", "Raises error"],
+    "correctAnswerIndex": 1,
+    "explanation": "`pass` is a null statement used when a statement is syntactically required but no action is needed.",
+    "topic": "Python"
+  },
+  {
+    "id": 155,
+    "question": "Which keyword is used to create a class in Python?",
+    "options": ["function", "method", "def", "class"],
+    "correctAnswerIndex": 3,
+    "explanation": "The `class` keyword is used to define a new class in Python.",
+    "topic": "Python"
+  },
+  {
+    "id": 156,
+    "question": "How do you start a for loop in Python?",
+    "options": ["for i to 10", "foreach i in range", "for i in range()", "loop i range()"],
+    "correctAnswerIndex": 2,
+    "explanation": "The correct syntax is `for i in range():` to start a loop.",
+    "topic": "Python"
+  },
+  {
+    "id": 157,
+    "question": "Which function is used to take input from the user?",
+    "options": ["get()", "input()", "scan()", "read()"],
+    "correctAnswerIndex": 1,
+    "explanation": "The `input()` function is used to take user input as a string.",
+    "topic": "Python"
+  },
+  {
+    "id": 158,
+    "question": "What is the correct file extension for Python files?",
+    "options": [".py", ".pt", ".pyt", ".p"],
+    "correctAnswerIndex": 0,
+    "explanation": "Python source files use the `.py` extension.",
+    "topic": "Python"
+  },
+  {
+    "id": 159,
+    "question": "Which of the following is a Python tuple?",
+    "options": ["[1, 2, 3]", "{1, 2, 3}", "(1, 2, 3)", "None of these"],
+    "correctAnswerIndex": 2,
+    "explanation": "Tuples are defined using parentheses `()` in Python.",
+    "topic": "Python"
+  },
+  {
+    "id": 160,
+    "question": "What will `print('5' + '6')` output?",
+    "options": ["11", "56", "Error", "5 6"],
+    "correctAnswerIndex": 1,
+    "explanation": "In Python, adding two strings using `+` concatenates them. So '5' + '6' = '56'.",
+    "topic": "Python"
+  }
+
+]
