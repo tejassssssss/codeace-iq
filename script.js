@@ -24,7 +24,7 @@ if (savedProgress && savedProgress.mode === 'topic') {
   score = savedProgress.score || 0;
   document.getElementById('score').innerText = `Score: ${score}`;
 }
-
+/*
 fetch('questions.json')
   .then(response => response.json())
   .then(data => {
@@ -34,6 +34,14 @@ fetch('questions.json')
       loadQuestion(currentQuestionIndex);
     }
   });
+*/
+fetch('questions.json')
+  .then(response => response.json())
+  .then(data => {
+    allQuestions = data;
+    // Don't auto-start quiz — wait for user to click "Start Quiz"
+  });
+
 
 function showFeedback(message, type) {
   const feedback = document.getElementById('feedback');
